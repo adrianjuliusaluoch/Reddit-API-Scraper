@@ -1,8 +1,8 @@
 praw
 nbconvert
 google-cloud-bigquery
-numpy
 pandas
+numpy
 requests
 pyarrow
 db-dtypes
@@ -10,4 +10,3 @@ beautifulsoup4
 tqdm
 jupyter
 ipykernel
-seaborn
